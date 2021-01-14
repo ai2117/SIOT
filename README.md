@@ -1,12 +1,12 @@
+# SIOT
+Posture and Productivity Tracker, Sensing and IoT project
+
 # Website
 https://www.angelaibanez-design.com
 Created with WIX. Charts created with MongoDB Charts, embedded as iframes.
 
 # Video
 
-
-# SIOT
-Posture and Productivity Tracker, Sensing and IoT project
 
 # Data sources:
 - Flex sensor - measuring the user's posture
