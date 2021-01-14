@@ -6,7 +6,7 @@ https://www.angelaibanez-design.com
 Created with WIX. Charts created with MongoDB Charts, embedded as iframes.
 
 # Video
-
+https://drive.google.com/drive/folders/1P6o46Jn9vHqnFnC5CGuBHSdd3GXLR617?usp=sharing
 
 # Data sources:
 - Flex sensor - measuring the user's posture
