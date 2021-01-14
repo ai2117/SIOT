@@ -34,8 +34,7 @@ Created with WIX. Charts created with MongoDB Charts, embedded as iframes.
     - Sending a get request to dweet.io with the posture's average
     - Sending a get request to my IFTTT applet which can be found https://ifttt.com/applets/ShWUKpJt
       
-- MongoDB Realm Functions
-Create a "3rd service" function, set a http webhook with the "GET" method
+- MongoDB Realm Functions (setup: "3rd service" function, set a http webhook with the "GET" method)
 
     - Retrieving_and_storing.js
         - Function triggered by IFTTT applet (which is triggered by ESP8266)
