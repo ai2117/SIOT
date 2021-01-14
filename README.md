@@ -1,5 +1,6 @@
 # Website
 https://www.angelaibanez-design.com
+Created with WIX. Charts created with MongoDB Charts, embedded as iframes.
 
 # Video
 
